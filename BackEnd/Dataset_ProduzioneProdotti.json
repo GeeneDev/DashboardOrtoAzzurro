@@ -1,0 +1,1210 @@
+[
+  {
+    "id": 0,
+    "produzione": [
+      {
+        "id": 9,
+        "quantita": 2605
+      }
+    ],
+    "data": "2019-10-15T03:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "produzione": [
+      {
+        "id": 9,
+        "quantita": 2678
+      }
+    ],
+    "data": "2019-11-15T04:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "produzione": [
+      {
+        "id": 9,
+        "quantita": 2628
+      }
+    ],
+    "data": "2020-10-15T03:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "produzione": [
+      {
+        "id": 9,
+        "quantita": 2597
+      }
+    ],
+    "data": "2020-11-15T04:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "produzione": [
+      {
+        "id": 11,
+        "quantita": 2656
+      }
+    ],
+    "data": "2021-10-15T03:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "produzione": [
+      {
+        "id": 11,
+        "quantita": 2647
+      }
+    ],
+    "data": "2021-11-15T04:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "produzione": [
+      {
+        "id": 9,
+        "quantita": 2660
+      }
+    ],
+    "data": "2022-10-15T03:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "produzione": [
+      {
+        "id": 9,
+        "quantita": 2621
+      }
+    ],
+    "data": "2022-11-15T04:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "produzione": [
+      {
+        "id": 9,
+        "quantita": 2632
+      }
+    ],
+    "data": "2023-10-15T03:00:00.000Z"
+  },
+  {
+    "id": 9,
+    "produzione": [
+      {
+        "id": 9,
+        "quantita": 2673
+      }
+    ],
+    "data": "2023-11-15T04:00:00.000Z"
+  },
+  {
+    "id": 10,
+    "produzione": [
+      {
+        "id": 12,
+        "quantita": 13424
+      }
+    ],
+    "data": "2019-09-15T03:00:00.000Z"
+  },
+  {
+    "id": 11,
+    "produzione": [
+      {
+        "id": 12,
+        "quantita": 12969
+      }
+    ],
+    "data": "2019-10-15T03:00:00.000Z"
+  },
+  {
+    "id": 12,
+    "produzione": [
+      {
+        "id": 12,
+        "quantita": 13396
+      }
+    ],
+    "data": "2020-09-15T03:00:00.000Z"
+  },
+  {
+    "id": 13,
+    "produzione": [
+      {
+        "id": 12,
+        "quantita": 13487
+      }
+    ],
+    "data": "2020-10-15T03:00:00.000Z"
+  },
+  {
+    "id": 14,
+    "produzione": [
+      {
+        "id": 12,
+        "quantita": 13325
+      }
+    ],
+    "data": "2021-09-15T03:00:00.000Z"
+  },
+  {
+    "id": 15,
+    "produzione": [
+      {
+        "id": 12,
+        "quantita": 13430
+      }
+    ],
+    "data": "2021-10-15T03:00:00.000Z"
+  },
+  {
+    "id": 16,
+    "produzione": [
+      {
+        "id": 12,
+        "quantita": 13416
+      }
+    ],
+    "data": "2022-09-15T03:00:00.000Z"
+  },
+  {
+    "id": 17,
+    "produzione": [
+      {
+        "id": 12,
+        "quantita": 13322
+      }
+    ],
+    "data": "2022-10-15T03:00:00.000Z"
+  },
+  {
+    "id": 18,
+    "produzione": [
+      {
+        "id": 12,
+        "quantita": 13066
+      }
+    ],
+    "data": "2023-09-15T03:00:00.000Z"
+  },
+  {
+    "id": 19,
+    "produzione": [
+      {
+        "id": 12,
+        "quantita": 13354
+      }
+    ],
+    "data": "2023-10-15T03:00:00.000Z"
+  },
+  {
+    "id": 20,
+    "produzione": [
+      {
+        "id": 2,
+        "quantita": 17293
+      },
+      {
+        "id": 5,
+        "quantita": 13219
+      },
+      {
+        "id": 8,
+        "quantita": 5198
+      }
+    ],
+    "data": "2019-08-15T03:00:00.000Z"
+  },
+  {
+    "id": 21,
+    "produzione": [
+      {
+        "id": 2,
+        "quantita": 17663
+      },
+      {
+        "id": 5,
+        "quantita": 13497
+      },
+      {
+        "id": 8,
+        "quantita": 5261
+      }
+    ],
+    "data": "2019-09-15T03:00:00.000Z"
+  },
+  {
+    "id": 22,
+    "produzione": [
+      {
+        "id": 0,
+        "quantita": 17409
+      },
+      {
+        "id": 3,
+        "quantita": 12985
+      },
+      {
+        "id": 6,
+        "quantita": 5352
+      }
+    ],
+    "data": "2019-10-15T03:00:00.000Z"
+  },
+  {
+    "id": 23,
+    "produzione": [
+      {
+        "id": 0,
+        "quantita": 17157
+      },
+      {
+        "id": 3,
+        "quantita": 13214
+      },
+      {
+        "id": 6,
+        "quantita": 5376
+      }
+    ],
+    "data": "2019-11-15T04:00:00.000Z"
+  },
+  {
+    "id": 24,
+    "produzione": [
+      {
+        "id": 2,
+        "quantita": 17830
+      },
+      {
+        "id": 5,
+        "quantita": 13357
+      },
+      {
+        "id": 8,
+        "quantita": 5125
+      }
+    ],
+    "data": "2019-12-15T04:00:00.000Z"
+  },
+  {
+    "id": 25,
+    "produzione": [
+      {
+        "id": 0,
+        "quantita": 17517
+      },
+      {
+        "id": 3,
+        "quantita": 13288
+      },
+      {
+        "id": 6,
+        "quantita": 5119
+      }
+    ],
+    "data": "2020-02-15T04:00:00.000Z"
+  },
+  {
+    "id": 26,
+    "produzione": [
+      {
+        "id": 0,
+        "quantita": 17226
+      },
+      {
+        "id": 3,
+        "quantita": 12827
+      },
+      {
+        "id": 6,
+        "quantita": 5175
+      }
+    ],
+    "data": "2020-03-15T04:00:00.000Z"
+  },
+  {
+    "id": 27,
+    "produzione": [
+      {
+        "id": 2,
+        "quantita": 17640
+      },
+      {
+        "id": 5,
+        "quantita": 13164
+      },
+      {
+        "id": 8,
+        "quantita": 5209
+      }
+    ],
+    "data": "2020-04-15T03:00:00.000Z"
+  },
+  {
+    "id": 28,
+    "produzione": [
+      {
+        "id": 2,
+        "quantita": 17151
+      },
+      {
+        "id": 5,
+        "quantita": 12811
+      },
+      {
+        "id": 8,
+        "quantita": 5133
+      }
+    ],
+    "data": "2020-05-15T03:00:00.000Z"
+  },
+  {
+    "id": 29,
+    "produzione": [
+      {
+        "id": 2,
+        "quantita": 17071
+      },
+      {
+        "id": 5,
+        "quantita": 13126
+      },
+      {
+        "id": 8,
+        "quantita": 5265
+      }
+    ],
+    "data": "2020-06-15T03:00:00.000Z"
+  },
+  {
+    "id": 30,
+    "produzione": [
+      {
+        "id": 0,
+        "quantita": 17482
+      },
+      {
+        "id": 3,
+        "quantita": 12995
+      },
+      {
+        "id": 6,
+        "quantita": 5393
+      }
+    ],
+    "data": "2020-07-15T03:00:00.000Z"
+  },
+  {
+    "id": 31,
+    "produzione": [
+      {
+        "id": 2,
+        "quantita": 17660
+      },
+      {
+        "id": 5,
+        "quantita": 13085
+      },
+      {
+        "id": 8,
+        "quantita": 5333
+      }
+    ],
+    "data": "2020-08-15T03:00:00.000Z"
+  },
+  {
+    "id": 32,
+    "produzione": [
+      {
+        "id": 2,
+        "quantita": 17328
+      },
+      {
+        "id": 5,
+        "quantita": 13070
+      },
+      {
+        "id": 8,
+        "quantita": 5289
+      }
+    ],
+    "data": "2020-09-15T03:00:00.000Z"
+  },
+  {
+    "id": 33,
+    "produzione": [
+      {
+        "id": 0,
+        "quantita": 17907
+      },
+      {
+        "id": 3,
+        "quantita": 13197
+      },
+      {
+        "id": 6,
+        "quantita": 5273
+      }
+    ],
+    "data": "2020-10-15T03:00:00.000Z"
+  },
+  {
+    "id": 34,
+    "produzione": [
+      {
+        "id": 0,
+        "quantita": 17940
+      },
+      {
+        "id": 3,
+        "quantita": 12884
+      },
+      {
+        "id": 6,
+        "quantita": 5386
+      }
+    ],
+    "data": "2020-11-15T04:00:00.000Z"
+  },
+  {
+    "id": 35,
+    "produzione": [
+      {
+        "id": 0,
+        "quantita": 17954
+      },
+      {
+        "id": 3,
+        "quantita": 13140
+      },
+      {
+        "id": 6,
+        "quantita": 5284
+      }
+    ],
+    "data": "2020-12-15T04:00:00.000Z"
+  },
+  {
+    "id": 36,
+    "produzione": [
+      {
+        "id": 0,
+        "quantita": 17886
+      },
+      {
+        "id": 3,
+        "quantita": 13236
+      },
+      {
+        "id": 6,
+        "quantita": 5168
+      }
+    ],
+    "data": "2021-02-15T04:00:00.000Z"
+  },
+  {
+    "id": 37,
+    "produzione": [
+      {
+        "id": 1,
+        "quantita": 17393
+      },
+      {
+        "id": 4,
+        "quantita": 12835
+      },
+      {
+        "id": 7,
+        "quantita": 5311
+      }
+    ],
+    "data": "2021-03-15T04:00:00.000Z"
+  },
+  {
+    "id": 38,
+    "produzione": [
+      {
+        "id": 2,
+        "quantita": 17383
+      },
+      {
+        "id": 5,
+        "quantita": 12780
+      },
+      {
+        "id": 8,
+        "quantita": 5353
+      }
+    ],
+    "data": "2021-04-15T03:00:00.000Z"
+  },
+  {
+    "id": 39,
+    "produzione": [
+      {
+        "id": 0,
+        "quantita": 17737
+      },
+      {
+        "id": 3,
+        "quantita": 13065
+      },
+      {
+        "id": 6,
+        "quantita": 5200
+      }
+    ],
+    "data": "2021-05-15T03:00:00.000Z"
+  },
+  {
+    "id": 40,
+    "produzione": [
+      {
+        "id": 0,
+        "quantita": 17558
+      },
+      {
+        "id": 3,
+        "quantita": 13021
+      },
+      {
+        "id": 6,
+        "quantita": 5270
+      }
+    ],
+    "data": "2021-06-15T03:00:00.000Z"
+  },
+  {
+    "id": 41,
+    "produzione": [
+      {
+        "id": 2,
+        "quantita": 17247
+      },
+      {
+        "id": 5,
+        "quantita": 13241
+      },
+      {
+        "id": 8,
+        "quantita": 5216
+      }
+    ],
+    "data": "2021-07-15T03:00:00.000Z"
+  },
+  {
+    "id": 42,
+    "produzione": [
+      {
+        "id": 0,
+        "quantita": 17697
+      },
+      {
+        "id": 3,
+        "quantita": 13263
+      },
+      {
+        "id": 6,
+        "quantita": 5392
+      }
+    ],
+    "data": "2021-08-15T03:00:00.000Z"
+  },
+  {
+    "id": 43,
+    "produzione": [
+      {
+        "id": 2,
+        "quantita": 17077
+      },
+      {
+        "id": 5,
+        "quantita": 12904
+      },
+      {
+        "id": 8,
+        "quantita": 5151
+      }
+    ],
+    "data": "2021-09-15T03:00:00.000Z"
+  },
+  {
+    "id": 44,
+    "produzione": [
+      {
+        "id": 0,
+        "quantita": 17298
+      },
+      {
+        "id": 3,
+        "quantita": 12907
+      },
+      {
+        "id": 6,
+        "quantita": 5152
+      }
+    ],
+    "data": "2021-10-15T03:00:00.000Z"
+  },
+  {
+    "id": 45,
+    "produzione": [
+      {
+        "id": 2,
+        "quantita": 17571
+      },
+      {
+        "id": 5,
+        "quantita": 13131
+      },
+      {
+        "id": 8,
+        "quantita": 5351
+      }
+    ],
+    "data": "2021-11-15T04:00:00.000Z"
+  },
+  {
+    "id": 46,
+    "produzione": [
+      {
+        "id": 2,
+        "quantita": 17378
+      },
+      {
+        "id": 5,
+        "quantita": 13458
+      },
+      {
+        "id": 8,
+        "quantita": 5161
+      }
+    ],
+    "data": "2021-12-15T04:00:00.000Z"
+  },
+  {
+    "id": 47,
+    "produzione": [
+      {
+        "id": 2,
+        "quantita": 17507
+      },
+      {
+        "id": 5,
+        "quantita": 13399
+      },
+      {
+        "id": 8,
+        "quantita": 5263
+      }
+    ],
+    "data": "2022-02-15T04:00:00.000Z"
+  },
+  {
+    "id": 48,
+    "produzione": [
+      {
+        "id": 0,
+        "quantita": 17944
+      },
+      {
+        "id": 3,
+        "quantita": 13293
+      },
+      {
+        "id": 6,
+        "quantita": 5239
+      }
+    ],
+    "data": "2022-03-15T04:00:00.000Z"
+  },
+  {
+    "id": 49,
+    "produzione": [
+      {
+        "id": 0,
+        "quantita": 17825
+      },
+      {
+        "id": 3,
+        "quantita": 12788
+      },
+      {
+        "id": 6,
+        "quantita": 5250
+      }
+    ],
+    "data": "2022-04-15T03:00:00.000Z"
+  },
+  {
+    "id": 50,
+    "produzione": [
+      {
+        "id": 2,
+        "quantita": 17342
+      },
+      {
+        "id": 5,
+        "quantita": 12858
+      },
+      {
+        "id": 8,
+        "quantita": 5207
+      }
+    ],
+    "data": "2022-05-15T03:00:00.000Z"
+  },
+  {
+    "id": 51,
+    "produzione": [
+      {
+        "id": 0,
+        "quantita": 17048
+      },
+      {
+        "id": 3,
+        "quantita": 13378
+      },
+      {
+        "id": 6,
+        "quantita": 5251
+      }
+    ],
+    "data": "2022-06-15T03:00:00.000Z"
+  },
+  {
+    "id": 52,
+    "produzione": [
+      {
+        "id": 0,
+        "quantita": 17226
+      },
+      {
+        "id": 3,
+        "quantita": 12793
+      },
+      {
+        "id": 6,
+        "quantita": 5327
+      }
+    ],
+    "data": "2022-07-15T03:00:00.000Z"
+  },
+  {
+    "id": 53,
+    "produzione": [
+      {
+        "id": 0,
+        "quantita": 17742
+      },
+      {
+        "id": 3,
+        "quantita": 12921
+      },
+      {
+        "id": 6,
+        "quantita": 5299
+      }
+    ],
+    "data": "2022-08-15T03:00:00.000Z"
+  },
+  {
+    "id": 54,
+    "produzione": [
+      {
+        "id": 0,
+        "quantita": 17324
+      },
+      {
+        "id": 3,
+        "quantita": 12857
+      },
+      {
+        "id": 6,
+        "quantita": 5293
+      }
+    ],
+    "data": "2022-09-15T03:00:00.000Z"
+  },
+  {
+    "id": 55,
+    "produzione": [
+      {
+        "id": 0,
+        "quantita": 17438
+      },
+      {
+        "id": 3,
+        "quantita": 13113
+      },
+      {
+        "id": 6,
+        "quantita": 5132
+      }
+    ],
+    "data": "2022-10-15T03:00:00.000Z"
+  },
+  {
+    "id": 56,
+    "produzione": [
+      {
+        "id": 2,
+        "quantita": 17039
+      },
+      {
+        "id": 5,
+        "quantita": 12785
+      },
+      {
+        "id": 8,
+        "quantita": 5186
+      }
+    ],
+    "data": "2022-11-15T04:00:00.000Z"
+  },
+  {
+    "id": 57,
+    "produzione": [
+      {
+        "id": 2,
+        "quantita": 17885
+      },
+      {
+        "id": 5,
+        "quantita": 13152
+      },
+      {
+        "id": 8,
+        "quantita": 5288
+      }
+    ],
+    "data": "2022-12-15T04:00:00.000Z"
+  },
+  {
+    "id": 58,
+    "produzione": [
+      {
+        "id": 0,
+        "quantita": 17372
+      },
+      {
+        "id": 3,
+        "quantita": 12874
+      },
+      {
+        "id": 6,
+        "quantita": 5366
+      }
+    ],
+    "data": "2023-02-15T04:00:00.000Z"
+  },
+  {
+    "id": 59,
+    "produzione": [
+      {
+        "id": 0,
+        "quantita": 17511
+      },
+      {
+        "id": 3,
+        "quantita": 13447
+      },
+      {
+        "id": 6,
+        "quantita": 5107
+      }
+    ],
+    "data": "2023-03-15T04:00:00.000Z"
+  },
+  {
+    "id": 60,
+    "produzione": [
+      {
+        "id": 0,
+        "quantita": 17375
+      },
+      {
+        "id": 3,
+        "quantita": 13329
+      },
+      {
+        "id": 6,
+        "quantita": 5175
+      }
+    ],
+    "data": "2023-04-15T03:00:00.000Z"
+  },
+  {
+    "id": 61,
+    "produzione": [
+      {
+        "id": 0,
+        "quantita": 17174
+      },
+      {
+        "id": 3,
+        "quantita": 13186
+      },
+      {
+        "id": 6,
+        "quantita": 5168
+      }
+    ],
+    "data": "2023-05-15T03:00:00.000Z"
+  },
+  {
+    "id": 62,
+    "produzione": [
+      {
+        "id": 2,
+        "quantita": 17999
+      },
+      {
+        "id": 5,
+        "quantita": 13307
+      },
+      {
+        "id": 8,
+        "quantita": 5250
+      }
+    ],
+    "data": "2023-06-15T03:00:00.000Z"
+  },
+  {
+    "id": 63,
+    "produzione": [
+      {
+        "id": 0,
+        "quantita": 17775
+      },
+      {
+        "id": 3,
+        "quantita": 12996
+      },
+      {
+        "id": 6,
+        "quantita": 5192
+      }
+    ],
+    "data": "2023-07-15T03:00:00.000Z"
+  },
+  {
+    "id": 64,
+    "produzione": [
+      {
+        "id": 0,
+        "quantita": 17391
+      },
+      {
+        "id": 3,
+        "quantita": 13435
+      },
+      {
+        "id": 6,
+        "quantita": 5172
+      }
+    ],
+    "data": "2023-08-15T03:00:00.000Z"
+  },
+  {
+    "id": 65,
+    "produzione": [
+      {
+        "id": 0,
+        "quantita": 17996
+      },
+      {
+        "id": 3,
+        "quantita": 13222
+      },
+      {
+        "id": 6,
+        "quantita": 5386
+      }
+    ],
+    "data": "2023-09-15T03:00:00.000Z"
+  },
+  {
+    "id": 66,
+    "produzione": [
+      {
+        "id": 0,
+        "quantita": 17477
+      },
+      {
+        "id": 3,
+        "quantita": 13066
+      },
+      {
+        "id": 6,
+        "quantita": 5136
+      }
+    ],
+    "data": "2023-10-15T03:00:00.000Z"
+  },
+  {
+    "id": 67,
+    "produzione": [
+      {
+        "id": 0,
+        "quantita": 17901
+      },
+      {
+        "id": 3,
+        "quantita": 12985
+      },
+      {
+        "id": 6,
+        "quantita": 5226
+      }
+    ],
+    "data": "2023-11-15T04:00:00.000Z"
+  },
+  {
+    "id": 68,
+    "produzione": [
+      {
+        "id": 0,
+        "quantita": 17267
+      },
+      {
+        "id": 3,
+        "quantita": 13325
+      },
+      {
+        "id": 6,
+        "quantita": 5395
+      }
+    ],
+    "data": "2023-12-15T04:00:00.000Z"
+  },
+  {
+    "id": 69,
+    "produzione": [
+      {
+        "id": 0,
+        "quantita": 17760
+      },
+      {
+        "id": 3,
+        "quantita": 12850
+      },
+      {
+        "id": 6,
+        "quantita": 5223
+      }
+    ],
+    "data": "2024-02-15T04:00:00.000Z"
+  },
+  {
+    "id": 70,
+    "produzione": [
+      {
+        "id": 2,
+        "quantita": 17805
+      },
+      {
+        "id": 5,
+        "quantita": 13243
+      },
+      {
+        "id": 8,
+        "quantita": 5174
+      }
+    ],
+    "data": "2024-03-15T04:00:00.000Z"
+  },
+  {
+    "id": 71,
+    "produzione": [
+      {
+        "id": 0,
+        "quantita": 17904
+      },
+      {
+        "id": 3,
+        "quantita": 13113
+      },
+      {
+        "id": 6,
+        "quantita": 5261
+      }
+    ],
+    "data": "2024-04-15T03:00:00.000Z"
+  },
+  {
+    "id": 72,
+    "produzione": [
+      {
+        "id": 0,
+        "quantita": 17646
+      },
+      {
+        "id": 3,
+        "quantita": 13427
+      },
+      {
+        "id": 6,
+        "quantita": 5300
+      }
+    ],
+    "data": "2024-05-15T03:00:00.000Z"
+  },
+  {
+    "id": 73,
+    "produzione": [
+      {
+        "id": 0,
+        "quantita": 17305
+      },
+      {
+        "id": 3,
+        "quantita": 13202
+      },
+      {
+        "id": 6,
+        "quantita": 5393
+      }
+    ],
+    "data": "2024-06-15T03:00:00.000Z"
+  },
+  {
+    "id": 74,
+    "produzione": [
+      {
+        "id": 2,
+        "quantita": 17875
+      },
+      {
+        "id": 5,
+        "quantita": 13388
+      },
+      {
+        "id": 8,
+        "quantita": 5150
+      }
+    ],
+    "data": "2024-07-15T03:00:00.000Z"
+  },
+  {
+    "id": 75,
+    "produzione": [
+      {
+        "id": 0,
+        "quantita": 17858
+      },
+      {
+        "id": 3,
+        "quantita": 12764
+      },
+      {
+        "id": 6,
+        "quantita": 5241
+      }
+    ],
+    "data": "2024-08-15T03:00:00.000Z"
+  }
+]

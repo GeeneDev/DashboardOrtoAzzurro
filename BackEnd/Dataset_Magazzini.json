@@ -1,0 +1,489 @@
+[
+  {
+    "id": 0,
+    "nome": "MP_MAG0",
+    "macchinari": [
+      {
+        "id": 0,
+        "quantita": 1
+      },
+      {
+        "id": 1,
+        "quantita": 1
+      },
+      {
+        "id": 2,
+        "quantita": 1
+      },
+      {
+        "id": 3,
+        "quantita": 1
+      }
+    ],
+    "concimi": [],
+    "fertilizzanti": [],
+    "agrofarmaci": [],
+    "strumenti": [
+      {
+        "id": 0,
+        "quantita": 100
+      },
+      {
+        "id": 1,
+        "quantita": 200
+      },
+      {
+        "id": 2,
+        "quantita": 10
+      },
+      {
+        "id": 3,
+        "quantita": 10
+      },
+      {
+        "id": 4,
+        "quantita": 20
+      },
+      {
+        "id": 5,
+        "quantita": 100
+      },
+      {
+        "id": 6,
+        "quantita": 20
+      },
+      {
+        "id": 7,
+        "quantita": 10
+      },
+      {
+        "id": 8,
+        "quantita": 10
+      },
+      {
+        "id": 9,
+        "quantita": 10
+      },
+      {
+        "id": 10,
+        "quantita": 10
+      },
+      {
+        "id": 11,
+        "quantita": 10
+      }
+    ],
+    "prodotti": []
+  },
+  {
+    "id": 1,
+    "nome": "MP_MAG1",
+    "macchinari": [],
+    "concimi": [],
+    "fertilizzanti": [],
+    "agrofarmaci": [],
+    "strumenti": [],
+    "prodotti": [
+      {
+        "id": 20,
+        "quantita": 300
+      },
+      {
+        "id": 21,
+        "quantita": 3000
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "MP_MAG2",
+    "macchinari": [],
+    "concimi": [
+      {
+        "id": 0,
+        "quantita": 50
+      },
+      {
+        "id": 1,
+        "quantita": 25
+      },
+      {
+        "id": 2,
+        "quantita": 100
+      },
+      {
+        "id": 3,
+        "quantita": 150
+      },
+      {
+        "id": 4,
+        "quantita": 150
+      }
+    ],
+    "fertilizzanti": [
+      {
+        "id": 0,
+        "quantita": 150
+      },
+      {
+        "id": 1,
+        "quantita": 25
+      }
+    ],
+    "agrofarmaci": [
+      {
+        "id": 1,
+        "quantita": 10
+      },
+      {
+        "id": 2,
+        "quantita": 10
+      },
+      {
+        "id": 3,
+        "quantita": 20
+      },
+      {
+        "id": 4,
+        "quantita": 20
+      },
+      {
+        "id": 5,
+        "quantita": 70
+      },
+      {
+        "id": 6,
+        "quantita": 50
+      },
+      {
+        "id": 7,
+        "quantita": 15
+      }
+    ],
+    "strumenti": [],
+    "prodotti": []
+  },
+  {
+    "id": 3,
+    "nome": "MP_MAG3",
+    "macchinari": [],
+    "concimi": [],
+    "fertilizzanti": [],
+    "agrofarmaci": [],
+    "strumenti": [],
+    "prodotti": [
+      {
+        "id": 0,
+        "quantita": 17858
+      },
+      {
+        "id": 3,
+        "quantita": 12764
+      },
+      {
+        "id": 6,
+        "quantita": 5241
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "TA_MAG0",
+    "macchinari": [
+      {
+        "id": 4,
+        "quantita": 1
+      },
+      {
+        "id": 5,
+        "quantita": 1
+      },
+      {
+        "id": 6,
+        "quantita": 1
+      },
+      {
+        "id": 7,
+        "quantita": 1
+      }
+    ],
+    "concimi": [
+      {
+        "id": 0,
+        "quantita": 5
+      },
+      {
+        "id": 1,
+        "quantita": 50
+      },
+      {
+        "id": 2,
+        "quantita": 20
+      },
+      {
+        "id": 3,
+        "quantita": 30
+      },
+      {
+        "id": 4,
+        "quantita": 30
+      }
+    ],
+    "fertilizzanti": [],
+    "agrofarmaci": [
+      {
+        "id": 3,
+        "quantita": 10
+      },
+      {
+        "id": 4,
+        "quantita": 5
+      }
+    ],
+    "strumenti": [
+      {
+        "id": 0,
+        "quantita": 500
+      },
+      {
+        "id": 1,
+        "quantita": 100
+      },
+      {
+        "id": 2,
+        "quantita": 3
+      },
+      {
+        "id": 4,
+        "quantita": 5
+      },
+      {
+        "id": 5,
+        "quantita": 100
+      },
+      {
+        "id": 6,
+        "quantita": 16
+      },
+      {
+        "id": 7,
+        "quantita": 4
+      },
+      {
+        "id": 8,
+        "quantita": 4
+      },
+      {
+        "id": 9,
+        "quantita": 4
+      },
+      {
+        "id": 11,
+        "quantita": 4
+      },
+      {
+        "id": 12,
+        "quantita": 4
+      },
+      {
+        "id": 13,
+        "quantita": 1
+      }
+    ],
+    "prodotti": []
+  },
+  {
+    "id": 5,
+    "nome": "TV_MAG0",
+    "macchinari": [
+      {
+        "id": 4,
+        "quantita": 1
+      },
+      {
+        "id": 5,
+        "quantita": 1
+      },
+      {
+        "id": 6,
+        "quantita": 1
+      },
+      {
+        "id": 8,
+        "quantita": 1
+      },
+      {
+        "id": 9,
+        "quantita": 1
+      },
+      {
+        "id": 10,
+        "quantita": 1
+      },
+      {
+        "id": 11,
+        "quantita": 1
+      }
+    ],
+    "concimi": [
+      {
+        "id": 0,
+        "quantita": 20
+      }
+    ],
+    "fertilizzanti": [
+      {
+        "id": 0,
+        "quantita": 30
+      }
+    ],
+    "agrofarmaci": [
+      {
+        "id": 2,
+        "quantita": 10
+      }
+    ],
+    "strumenti": [
+      {
+        "id": 1,
+        "quantita": 100
+      },
+      {
+        "id": 3,
+        "quantita": 6
+      },
+      {
+        "id": 2,
+        "quantita": 8
+      },
+      {
+        "id": 4,
+        "quantita": 10
+      },
+      {
+        "id": 6,
+        "quantita": 16
+      },
+      {
+        "id": 7,
+        "quantita": 4
+      },
+      {
+        "id": 8,
+        "quantita": 4
+      },
+      {
+        "id": 9,
+        "quantita": 4
+      },
+      {
+        "id": 10,
+        "quantita": 4
+      },
+      {
+        "id": 11,
+        "quantita": 4
+      },
+      {
+        "id": 14,
+        "quantita": 10
+      },
+      {
+        "id": 13,
+        "quantita": 1
+      }
+    ],
+    "prodotti": []
+  },
+  {
+    "id": 6,
+    "nome": "TG_MAG0",
+    "macchinari": [
+      {
+        "id": 4,
+        "quantita": 1
+      },
+      {
+        "id": 5,
+        "quantita": 1
+      },
+      {
+        "id": 6,
+        "quantita": 1
+      },
+      {
+        "id": 7,
+        "quantita": 1
+      },
+      {
+        "id": 12,
+        "quantita": 1
+      }
+    ],
+    "concimi": [
+      {
+        "id": 0,
+        "quantita": 20
+      }
+    ],
+    "fertilizzanti": [
+      {
+        "id": 0,
+        "quantita": 30
+      }
+    ],
+    "agrofarmaci": [
+      {
+        "id": 1,
+        "quantita": 15
+      },
+      {
+        "id": 7,
+        "quantita": 10
+      }
+    ],
+    "strumenti": [
+      {
+        "id": 1,
+        "quantita": 100
+      },
+      {
+        "id": 2,
+        "quantita": 4
+      },
+      {
+        "id": 4,
+        "quantita": 14
+      },
+      {
+        "id": 5,
+        "quantita": 40
+      },
+      {
+        "id": 7,
+        "quantita": 4
+      },
+      {
+        "id": 8,
+        "quantita": 4
+      },
+      {
+        "id": 9,
+        "quantita": 4
+      },
+      {
+        "id": 10,
+        "quantita": 4
+      },
+      {
+        "id": 11,
+        "quantita": 4
+      },
+      {
+        "id": 14,
+        "quantita": 4
+      }
+    ],
+    "prodotti": []
+  }
+]

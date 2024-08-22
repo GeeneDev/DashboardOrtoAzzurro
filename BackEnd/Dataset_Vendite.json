@@ -1,0 +1,2777 @@
+[
+  {
+    "prodotto": {
+      "id": 2,
+      "nome": "Lattuga alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "alta",
+      "valoreunitario": 2.51
+    },
+    "quantita": 17204,
+    "valoreVendita": 41492.81,
+    "invenduto": 89,
+    "data": "2019-08-31T21:59:59.999Z",
+    "id": 0
+  },
+  {
+    "prodotto": {
+      "id": 5,
+      "nome": "Rosmarino alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "alta",
+      "valoreunitario": 11.11
+    },
+    "quantita": 13195,
+    "valoreVendita": 119188.08,
+    "invenduto": 24,
+    "data": "2019-08-31T21:59:59.999Z",
+    "id": 1
+  },
+  {
+    "prodotto": {
+      "id": 8,
+      "nome": "Patata alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "alta",
+      "valoreunitario": 1.01
+    },
+    "quantita": 5157,
+    "valoreVendita": 5056.06,
+    "invenduto": 41,
+    "data": "2019-08-31T21:59:59.999Z",
+    "id": 2
+  },
+  {
+    "prodotto": {
+      "id": 12,
+      "nome": "Uva bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.66
+    },
+    "quantita": 13329,
+    "valoreVendita": 79040.88,
+    "invenduto": 95,
+    "data": "2019-09-30T21:59:59.999Z",
+    "id": 3
+  },
+  {
+    "prodotto": {
+      "id": 2,
+      "nome": "Lattuga alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "alta",
+      "valoreunitario": 2.51
+    },
+    "quantita": 17613,
+    "valoreVendita": 43327.62,
+    "invenduto": 50,
+    "data": "2019-09-30T21:59:59.999Z",
+    "id": 4
+  },
+  {
+    "prodotto": {
+      "id": 5,
+      "nome": "Rosmarino alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "alta",
+      "valoreunitario": 11.11
+    },
+    "quantita": 13377,
+    "valoreVendita": 133953.27,
+    "invenduto": 120,
+    "data": "2019-09-30T21:59:59.999Z",
+    "id": 5
+  },
+  {
+    "prodotto": {
+      "id": 8,
+      "nome": "Patata alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "alta",
+      "valoreunitario": 1.01
+    },
+    "quantita": 5235,
+    "valoreVendita": 5192.41,
+    "invenduto": 26,
+    "data": "2019-09-30T21:59:59.999Z",
+    "id": 6
+  },
+  {
+    "prodotto": {
+      "id": 9,
+      "nome": "Olive bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 5.04
+    },
+    "quantita": 2544,
+    "valoreVendita": 11541.6,
+    "invenduto": 61,
+    "data": "2019-10-31T22:59:59.999Z",
+    "id": 7
+  },
+  {
+    "prodotto": {
+      "id": 12,
+      "nome": "Uva bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.66
+    },
+    "quantita": 12957,
+    "valoreVendita": 78301.62,
+    "invenduto": 12,
+    "data": "2019-10-31T22:59:59.999Z",
+    "id": 8
+  },
+  {
+    "prodotto": {
+      "id": 0,
+      "nome": "Lattuga bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "bassa",
+      "valoreunitario": 1.3
+    },
+    "quantita": 16625,
+    "valoreVendita": 18392.4,
+    "invenduto": 784,
+    "data": "2019-10-31T22:59:59.999Z",
+    "id": 9
+  },
+  {
+    "prodotto": {
+      "id": 3,
+      "nome": "Rosmarino bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.82
+    },
+    "quantita": 12877,
+    "valoreVendita": 85222.72,
+    "invenduto": 108,
+    "data": "2019-10-31T22:59:59.999Z",
+    "id": 10
+  },
+  {
+    "prodotto": {
+      "id": 6,
+      "nome": "Patata bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 0.73
+    },
+    "quantita": 5331,
+    "valoreVendita": 3325.88,
+    "invenduto": 21,
+    "data": "2019-10-31T22:59:59.999Z",
+    "id": 11
+  },
+  {
+    "prodotto": {
+      "id": 9,
+      "nome": "Olive bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 5.04
+    },
+    "quantita": 2646,
+    "valoreVendita": 12605.04,
+    "invenduto": 32,
+    "data": "2019-11-30T22:59:59.999Z",
+    "id": 12
+  },
+  {
+    "prodotto": {
+      "id": 0,
+      "nome": "Lattuga bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "bassa",
+      "valoreunitario": 1.3
+    },
+    "quantita": 17046,
+    "valoreVendita": 21066.5,
+    "invenduto": 111,
+    "data": "2019-11-30T22:59:59.999Z",
+    "id": 13
+  },
+  {
+    "prodotto": {
+      "id": 3,
+      "nome": "Rosmarino bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.82
+    },
+    "quantita": 13127,
+    "valoreVendita": 77925.32,
+    "invenduto": 87,
+    "data": "2019-11-30T22:59:59.999Z",
+    "id": 14
+  },
+  {
+    "prodotto": {
+      "id": 6,
+      "nome": "Patata bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 0.73
+    },
+    "quantita": 5140,
+    "valoreVendita": 3190.83,
+    "invenduto": 236,
+    "data": "2019-11-30T22:59:59.999Z",
+    "id": 15
+  },
+  {
+    "prodotto": {
+      "id": 2,
+      "nome": "Lattuga alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "alta",
+      "valoreunitario": 2.51
+    },
+    "quantita": 17830,
+    "valoreVendita": 44612.74,
+    "invenduto": 0,
+    "data": "2019-12-31T22:59:59.999Z",
+    "id": 16
+  },
+  {
+    "prodotto": {
+      "id": 5,
+      "nome": "Rosmarino alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "alta",
+      "valoreunitario": 11.11
+    },
+    "quantita": 12969,
+    "valoreVendita": 124332.01,
+    "invenduto": 388,
+    "data": "2019-12-31T22:59:59.999Z",
+    "id": 17
+  },
+  {
+    "prodotto": {
+      "id": 8,
+      "nome": "Patata alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "alta",
+      "valoreunitario": 1.01
+    },
+    "quantita": 5024,
+    "valoreVendita": 4187.46,
+    "invenduto": 101,
+    "data": "2019-12-31T22:59:59.999Z",
+    "id": 18
+  },
+  {
+    "prodotto": {
+      "id": 0,
+      "nome": "Lattuga bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "bassa",
+      "valoreunitario": 1.3
+    },
+    "quantita": 17517,
+    "valoreVendita": 22760.4,
+    "invenduto": 0,
+    "data": "2020-02-29T22:59:59.999Z",
+    "id": 19
+  },
+  {
+    "prodotto": {
+      "id": 3,
+      "nome": "Rosmarino bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.82
+    },
+    "quantita": 13167,
+    "valoreVendita": 84370.22,
+    "invenduto": 121,
+    "data": "2020-02-29T22:59:59.999Z",
+    "id": 20
+  },
+  {
+    "prodotto": {
+      "id": 6,
+      "nome": "Patata bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 0.73
+    },
+    "quantita": 5115,
+    "valoreVendita": 3333.91,
+    "invenduto": 4,
+    "data": "2020-02-29T22:59:59.999Z",
+    "id": 21
+  },
+  {
+    "prodotto": {
+      "id": 0,
+      "nome": "Lattuga bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "bassa",
+      "valoreunitario": 1.3
+    },
+    "quantita": 16852,
+    "valoreVendita": 18006.3,
+    "invenduto": 374,
+    "data": "2020-03-31T21:59:59.999Z",
+    "id": 22
+  },
+  {
+    "prodotto": {
+      "id": 3,
+      "nome": "Rosmarino bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.82
+    },
+    "quantita": 12787,
+    "valoreVendita": 76370.36,
+    "invenduto": 40,
+    "data": "2020-03-31T21:59:59.999Z",
+    "id": 23
+  },
+  {
+    "prodotto": {
+      "id": 6,
+      "nome": "Patata bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 0.73
+    },
+    "quantita": 5160,
+    "valoreVendita": 3306.17,
+    "invenduto": 15,
+    "data": "2020-03-31T21:59:59.999Z",
+    "id": 24
+  },
+  {
+    "prodotto": {
+      "id": 2,
+      "nome": "Lattuga alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "alta",
+      "valoreunitario": 2.51
+    },
+    "quantita": 17453,
+    "valoreVendita": 40579.17,
+    "invenduto": 187,
+    "data": "2020-04-30T21:59:59.999Z",
+    "id": 25
+  },
+  {
+    "prodotto": {
+      "id": 5,
+      "nome": "Rosmarino alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "alta",
+      "valoreunitario": 11.11
+    },
+    "quantita": 13058,
+    "valoreVendita": 139286.07,
+    "invenduto": 106,
+    "data": "2020-04-30T21:59:59.999Z",
+    "id": 26
+  },
+  {
+    "prodotto": {
+      "id": 8,
+      "nome": "Patata alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "alta",
+      "valoreunitario": 1.01
+    },
+    "quantita": 5167,
+    "valoreVendita": 4876.28,
+    "invenduto": 42,
+    "data": "2020-04-30T21:59:59.999Z",
+    "id": 27
+  },
+  {
+    "prodotto": {
+      "id": 2,
+      "nome": "Lattuga alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "alta",
+      "valoreunitario": 2.51
+    },
+    "quantita": 16608,
+    "valoreVendita": 36886.96,
+    "invenduto": 543,
+    "data": "2020-05-31T21:59:59.999Z",
+    "id": 28
+  },
+  {
+    "prodotto": {
+      "id": 5,
+      "nome": "Rosmarino alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "alta",
+      "valoreunitario": 11.11
+    },
+    "quantita": 12674,
+    "valoreVendita": 133397.77,
+    "invenduto": 137,
+    "data": "2020-05-31T21:59:59.999Z",
+    "id": 29
+  },
+  {
+    "prodotto": {
+      "id": 8,
+      "nome": "Patata alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "alta",
+      "valoreunitario": 1.01
+    },
+    "quantita": 5044,
+    "valoreVendita": 4666.2,
+    "invenduto": 89,
+    "data": "2020-05-31T21:59:59.999Z",
+    "id": 30
+  },
+  {
+    "prodotto": {
+      "id": 2,
+      "nome": "Lattuga alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "alta",
+      "valoreunitario": 2.51
+    },
+    "quantita": 16572,
+    "valoreVendita": 35857.86,
+    "invenduto": 499,
+    "data": "2020-06-30T21:59:59.999Z",
+    "id": 31
+  },
+  {
+    "prodotto": {
+      "id": 5,
+      "nome": "Rosmarino alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "alta",
+      "valoreunitario": 11.11
+    },
+    "quantita": 12985,
+    "valoreVendita": 127920.54,
+    "invenduto": 141,
+    "data": "2020-06-30T21:59:59.999Z",
+    "id": 32
+  },
+  {
+    "prodotto": {
+      "id": 8,
+      "nome": "Patata alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "alta",
+      "valoreunitario": 1.01
+    },
+    "quantita": 5241,
+    "valoreVendita": 4903.55,
+    "invenduto": 24,
+    "data": "2020-06-30T21:59:59.999Z",
+    "id": 33
+  },
+  {
+    "prodotto": {
+      "id": 0,
+      "nome": "Lattuga bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "bassa",
+      "valoreunitario": 1.3
+    },
+    "quantita": 17161,
+    "valoreVendita": 20439.9,
+    "invenduto": 321,
+    "data": "2020-07-31T21:59:59.999Z",
+    "id": 34
+  },
+  {
+    "prodotto": {
+      "id": 3,
+      "nome": "Rosmarino bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.82
+    },
+    "quantita": 12493,
+    "valoreVendita": 74187.96,
+    "invenduto": 502,
+    "data": "2020-07-31T21:59:59.999Z",
+    "id": 35
+  },
+  {
+    "prodotto": {
+      "id": 6,
+      "nome": "Patata bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 0.73
+    },
+    "quantita": 5374,
+    "valoreVendita": 3439.76,
+    "invenduto": 19,
+    "data": "2020-07-31T21:59:59.999Z",
+    "id": 36
+  },
+  {
+    "prodotto": {
+      "id": 2,
+      "nome": "Lattuga alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "alta",
+      "valoreunitario": 2.51
+    },
+    "quantita": 17357,
+    "valoreVendita": 41086.19,
+    "invenduto": 303,
+    "data": "2020-08-31T21:59:59.999Z",
+    "id": 37
+  },
+  {
+    "prodotto": {
+      "id": 5,
+      "nome": "Rosmarino alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "alta",
+      "valoreunitario": 11.11
+    },
+    "quantita": 12684,
+    "valoreVendita": 125543,
+    "invenduto": 401,
+    "data": "2020-08-31T21:59:59.999Z",
+    "id": 38
+  },
+  {
+    "prodotto": {
+      "id": 8,
+      "nome": "Patata alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "alta",
+      "valoreunitario": 1.01
+    },
+    "quantita": 5327,
+    "valoreVendita": 5335.83,
+    "invenduto": 6,
+    "data": "2020-08-31T21:59:59.999Z",
+    "id": 39
+  },
+  {
+    "prodotto": {
+      "id": 12,
+      "nome": "Uva bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.66
+    },
+    "quantita": 13383,
+    "valoreVendita": 88358.22,
+    "invenduto": 13,
+    "data": "2020-09-30T21:59:59.999Z",
+    "id": 40
+  },
+  {
+    "prodotto": {
+      "id": 2,
+      "nome": "Lattuga alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "alta",
+      "valoreunitario": 2.51
+    },
+    "quantita": 16893,
+    "valoreVendita": 37783.03,
+    "invenduto": 435,
+    "data": "2020-09-30T21:59:59.999Z",
+    "id": 41
+  },
+  {
+    "prodotto": {
+      "id": 5,
+      "nome": "Rosmarino alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "alta",
+      "valoreunitario": 11.11
+    },
+    "quantita": 12802,
+    "valoreVendita": 125676.32,
+    "invenduto": 268,
+    "data": "2020-09-30T21:59:59.999Z",
+    "id": 42
+  },
+  {
+    "prodotto": {
+      "id": 8,
+      "nome": "Patata alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "alta",
+      "valoreunitario": 1.01
+    },
+    "quantita": 5134,
+    "valoreVendita": 4627.82,
+    "invenduto": 155,
+    "data": "2020-09-30T21:59:59.999Z",
+    "id": 43
+  },
+  {
+    "prodotto": {
+      "id": 9,
+      "nome": "Olive bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 5.04
+    },
+    "quantita": 2626,
+    "valoreVendita": 12035.52,
+    "invenduto": 2,
+    "data": "2020-10-31T22:59:59.999Z",
+    "id": 44
+  },
+  {
+    "prodotto": {
+      "id": 12,
+      "nome": "Uva bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.66
+    },
+    "quantita": 13345,
+    "valoreVendita": 83662.92,
+    "invenduto": 142,
+    "data": "2020-10-31T22:59:59.999Z",
+    "id": 45
+  },
+  {
+    "prodotto": {
+      "id": 0,
+      "nome": "Lattuga bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "bassa",
+      "valoreunitario": 1.3
+    },
+    "quantita": 17902,
+    "valoreVendita": 23249.2,
+    "invenduto": 5,
+    "data": "2020-10-31T22:59:59.999Z",
+    "id": 46
+  },
+  {
+    "prodotto": {
+      "id": 3,
+      "nome": "Rosmarino bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.82
+    },
+    "quantita": 13140,
+    "valoreVendita": 88400.84,
+    "invenduto": 57,
+    "data": "2020-10-31T22:59:59.999Z",
+    "id": 47
+  },
+  {
+    "prodotto": {
+      "id": 6,
+      "nome": "Patata bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 0.73
+    },
+    "quantita": 5243,
+    "valoreVendita": 3091.55,
+    "invenduto": 30,
+    "data": "2020-10-31T22:59:59.999Z",
+    "id": 48
+  },
+  {
+    "prodotto": {
+      "id": 9,
+      "nome": "Olive bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 5.04
+    },
+    "quantita": 2575,
+    "valoreVendita": 11728.08,
+    "invenduto": 22,
+    "data": "2020-11-30T22:59:59.999Z",
+    "id": 49
+  },
+  {
+    "prodotto": {
+      "id": 0,
+      "nome": "Lattuga bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "bassa",
+      "valoreunitario": 1.3
+    },
+    "quantita": 17728,
+    "valoreVendita": 20017.4,
+    "invenduto": 212,
+    "data": "2020-11-30T22:59:59.999Z",
+    "id": 50
+  },
+  {
+    "prodotto": {
+      "id": 3,
+      "nome": "Rosmarino bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.82
+    },
+    "quantita": 12612,
+    "valoreVendita": 79289.32,
+    "invenduto": 272,
+    "data": "2020-11-30T22:59:59.999Z",
+    "id": 51
+  },
+  {
+    "prodotto": {
+      "id": 6,
+      "nome": "Patata bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 0.73
+    },
+    "quantita": 5323,
+    "valoreVendita": 3585.03,
+    "invenduto": 63,
+    "data": "2020-11-30T22:59:59.999Z",
+    "id": 52
+  },
+  {
+    "prodotto": {
+      "id": 0,
+      "nome": "Lattuga bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "bassa",
+      "valoreunitario": 1.3
+    },
+    "quantita": 17935,
+    "valoreVendita": 23080.2,
+    "invenduto": 19,
+    "data": "2020-12-31T22:59:59.999Z",
+    "id": 53
+  },
+  {
+    "prodotto": {
+      "id": 3,
+      "nome": "Rosmarino bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.82
+    },
+    "quantita": 13057,
+    "valoreVendita": 84847.62,
+    "invenduto": 83,
+    "data": "2020-12-31T22:59:59.999Z",
+    "id": 54
+  },
+  {
+    "prodotto": {
+      "id": 6,
+      "nome": "Patata bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 0.73
+    },
+    "quantita": 5147,
+    "valoreVendita": 3331.72,
+    "invenduto": 137,
+    "data": "2020-12-31T22:59:59.999Z",
+    "id": 55
+  },
+  {
+    "prodotto": {
+      "id": 0,
+      "nome": "Lattuga bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "bassa",
+      "valoreunitario": 1.3
+    },
+    "quantita": 17749,
+    "valoreVendita": 18991.7,
+    "invenduto": 137,
+    "data": "2021-02-28T22:59:59.999Z",
+    "id": 56
+  },
+  {
+    "prodotto": {
+      "id": 3,
+      "nome": "Rosmarino bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.82
+    },
+    "quantita": 12944,
+    "valoreVendita": 77945.78,
+    "invenduto": 292,
+    "data": "2021-02-28T22:59:59.999Z",
+    "id": 57
+  },
+  {
+    "prodotto": {
+      "id": 6,
+      "nome": "Patata bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 0.73
+    },
+    "quantita": 5157,
+    "valoreVendita": 3247.04,
+    "invenduto": 11,
+    "data": "2021-02-28T22:59:59.999Z",
+    "id": 58
+  },
+  {
+    "prodotto": {
+      "id": 1,
+      "nome": "Lattuga media qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "media",
+      "valoreunitario": 1.98
+    },
+    "quantita": 16834,
+    "valoreVendita": 29909.88,
+    "invenduto": 559,
+    "data": "2021-03-31T21:59:59.999Z",
+    "id": 59
+  },
+  {
+    "prodotto": {
+      "id": 4,
+      "nome": "Rosmarino media qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "media",
+      "valoreunitario": 8.67
+    },
+    "quantita": 12581,
+    "valoreVendita": 95239.95,
+    "invenduto": 254,
+    "data": "2021-03-31T21:59:59.999Z",
+    "id": 60
+  },
+  {
+    "prodotto": {
+      "id": 7,
+      "nome": "Patata media qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "media",
+      "valoreunitario": 0.79
+    },
+    "quantita": 5152,
+    "valoreVendita": 3685.35,
+    "invenduto": 159,
+    "data": "2021-03-31T21:59:59.999Z",
+    "id": 61
+  },
+  {
+    "prodotto": {
+      "id": 2,
+      "nome": "Lattuga alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "alta",
+      "valoreunitario": 2.51
+    },
+    "quantita": 16846,
+    "valoreVendita": 35107.37,
+    "invenduto": 537,
+    "data": "2021-04-30T21:59:59.999Z",
+    "id": 62
+  },
+  {
+    "prodotto": {
+      "id": 5,
+      "nome": "Rosmarino alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "alta",
+      "valoreunitario": 11.11
+    },
+    "quantita": 12672,
+    "valoreVendita": 133308.89,
+    "invenduto": 108,
+    "data": "2021-04-30T21:59:59.999Z",
+    "id": 63
+  },
+  {
+    "prodotto": {
+      "id": 8,
+      "nome": "Patata alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "alta",
+      "valoreunitario": 1.01
+    },
+    "quantita": 5340,
+    "valoreVendita": 5324.72,
+    "invenduto": 13,
+    "data": "2021-04-30T21:59:59.999Z",
+    "id": 64
+  },
+  {
+    "prodotto": {
+      "id": 0,
+      "nome": "Lattuga bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "bassa",
+      "valoreunitario": 1.3
+    },
+    "quantita": 17667,
+    "valoreVendita": 22441.9,
+    "invenduto": 70,
+    "data": "2021-05-31T21:59:59.999Z",
+    "id": 65
+  },
+  {
+    "prodotto": {
+      "id": 3,
+      "nome": "Rosmarino bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.82
+    },
+    "quantita": 12918,
+    "valoreVendita": 79262.04,
+    "invenduto": 147,
+    "data": "2021-05-31T21:59:59.999Z",
+    "id": 66
+  },
+  {
+    "prodotto": {
+      "id": 6,
+      "nome": "Patata bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 0.73
+    },
+    "quantita": 5198,
+    "valoreVendita": 3787.24,
+    "invenduto": 2,
+    "data": "2021-05-31T21:59:59.999Z",
+    "id": 67
+  },
+  {
+    "prodotto": {
+      "id": 0,
+      "nome": "Lattuga bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "bassa",
+      "valoreunitario": 1.3
+    },
+    "quantita": 17404,
+    "valoreVendita": 21791.9,
+    "invenduto": 154,
+    "data": "2021-06-30T21:59:59.999Z",
+    "id": 68
+  },
+  {
+    "prodotto": {
+      "id": 3,
+      "nome": "Rosmarino bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.82
+    },
+    "quantita": 13010,
+    "valoreVendita": 88496.32,
+    "invenduto": 11,
+    "data": "2021-06-30T21:59:59.999Z",
+    "id": 69
+  },
+  {
+    "prodotto": {
+      "id": 6,
+      "nome": "Patata bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 0.73
+    },
+    "quantita": 5231,
+    "valoreVendita": 3531.74,
+    "invenduto": 39,
+    "data": "2021-06-30T21:59:59.999Z",
+    "id": 70
+  },
+  {
+    "prodotto": {
+      "id": 2,
+      "nome": "Lattuga alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "alta",
+      "valoreunitario": 2.51
+    },
+    "quantita": 16826,
+    "valoreVendita": 38910.02,
+    "invenduto": 421,
+    "data": "2021-07-31T21:59:59.999Z",
+    "id": 71
+  },
+  {
+    "prodotto": {
+      "id": 5,
+      "nome": "Rosmarino alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "alta",
+      "valoreunitario": 11.11
+    },
+    "quantita": 13210,
+    "valoreVendita": 127142.84,
+    "invenduto": 31,
+    "data": "2021-07-31T21:59:59.999Z",
+    "id": 72
+  },
+  {
+    "prodotto": {
+      "id": 8,
+      "nome": "Patata alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "alta",
+      "valoreunitario": 1.01
+    },
+    "quantita": 5061,
+    "valoreVendita": 4246.04,
+    "invenduto": 155,
+    "data": "2021-07-31T21:59:59.999Z",
+    "id": 73
+  },
+  {
+    "prodotto": {
+      "id": 0,
+      "nome": "Lattuga bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "bassa",
+      "valoreunitario": 1.3
+    },
+    "quantita": 17520,
+    "valoreVendita": 20634.9,
+    "invenduto": 177,
+    "data": "2021-08-31T21:59:59.999Z",
+    "id": 74
+  },
+  {
+    "prodotto": {
+      "id": 3,
+      "nome": "Rosmarino bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.82
+    },
+    "quantita": 13252,
+    "valoreVendita": 87446.04,
+    "invenduto": 11,
+    "data": "2021-08-31T21:59:59.999Z",
+    "id": 75
+  },
+  {
+    "prodotto": {
+      "id": 6,
+      "nome": "Patata bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 0.73
+    },
+    "quantita": 5362,
+    "valoreVendita": 3832.5,
+    "invenduto": 30,
+    "data": "2021-08-31T21:59:59.999Z",
+    "id": 76
+  },
+  {
+    "prodotto": {
+      "id": 12,
+      "nome": "Uva bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.66
+    },
+    "quantita": 13088,
+    "valoreVendita": 77289.3,
+    "invenduto": 237,
+    "data": "2021-09-30T21:59:59.999Z",
+    "id": 77
+  },
+  {
+    "prodotto": {
+      "id": 2,
+      "nome": "Lattuga alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "alta",
+      "valoreunitario": 2.51
+    },
+    "quantita": 17043,
+    "valoreVendita": 40501.36,
+    "invenduto": 34,
+    "data": "2021-09-30T21:59:59.999Z",
+    "id": 78
+  },
+  {
+    "prodotto": {
+      "id": 5,
+      "nome": "Rosmarino alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "alta",
+      "valoreunitario": 11.11
+    },
+    "quantita": 12718,
+    "valoreVendita": 126531.79,
+    "invenduto": 186,
+    "data": "2021-09-30T21:59:59.999Z",
+    "id": 79
+  },
+  {
+    "prodotto": {
+      "id": 8,
+      "nome": "Patata alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "alta",
+      "valoreunitario": 1.01
+    },
+    "quantita": 5142,
+    "valoreVendita": 4859.11,
+    "invenduto": 9,
+    "data": "2021-09-30T21:59:59.999Z",
+    "id": 80
+  },
+  {
+    "prodotto": {
+      "id": 11,
+      "nome": "Olive alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "alta",
+      "valoreunitario": 6.53
+    },
+    "quantita": 2558,
+    "valoreVendita": 14281.11,
+    "invenduto": 98,
+    "data": "2021-10-31T22:59:59.999Z",
+    "id": 81
+  },
+  {
+    "prodotto": {
+      "id": 12,
+      "nome": "Uva bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.66
+    },
+    "quantita": 13373,
+    "valoreVendita": 78055.2,
+    "invenduto": 57,
+    "data": "2021-10-31T22:59:59.999Z",
+    "id": 82
+  },
+  {
+    "prodotto": {
+      "id": 0,
+      "nome": "Lattuga bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "bassa",
+      "valoreunitario": 1.3
+    },
+    "quantita": 17257,
+    "valoreVendita": 21901.1,
+    "invenduto": 41,
+    "data": "2021-10-31T22:59:59.999Z",
+    "id": 83
+  },
+  {
+    "prodotto": {
+      "id": 3,
+      "nome": "Rosmarino bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.82
+    },
+    "quantita": 12795,
+    "valoreVendita": 81485.36,
+    "invenduto": 112,
+    "data": "2021-10-31T22:59:59.999Z",
+    "id": 84
+  },
+  {
+    "prodotto": {
+      "id": 6,
+      "nome": "Patata bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 0.73
+    },
+    "quantita": 5042,
+    "valoreVendita": 3439.76,
+    "invenduto": 110,
+    "data": "2021-10-31T22:59:59.999Z",
+    "id": 85
+  },
+  {
+    "prodotto": {
+      "id": 11,
+      "nome": "Olive alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "alta",
+      "valoreunitario": 6.53
+    },
+    "quantita": 2627,
+    "valoreVendita": 16566.61,
+    "invenduto": 20,
+    "data": "2021-11-30T22:59:59.999Z",
+    "id": 86
+  },
+  {
+    "prodotto": {
+      "id": 2,
+      "nome": "Lattuga alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "alta",
+      "valoreunitario": 2.51
+    },
+    "quantita": 17391,
+    "valoreVendita": 42160.47,
+    "invenduto": 180,
+    "data": "2021-11-30T22:59:59.999Z",
+    "id": 87
+  },
+  {
+    "prodotto": {
+      "id": 5,
+      "nome": "Rosmarino alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "alta",
+      "valoreunitario": 11.11
+    },
+    "quantita": 13131,
+    "valoreVendita": 141108.11,
+    "invenduto": 0,
+    "data": "2021-11-30T22:59:59.999Z",
+    "id": 88
+  },
+  {
+    "prodotto": {
+      "id": 8,
+      "nome": "Patata alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "alta",
+      "valoreunitario": 1.01
+    },
+    "quantita": 5337,
+    "valoreVendita": 5314.62,
+    "invenduto": 14,
+    "data": "2021-11-30T22:59:59.999Z",
+    "id": 89
+  },
+  {
+    "prodotto": {
+      "id": 2,
+      "nome": "Lattuga alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "alta",
+      "valoreunitario": 2.51
+    },
+    "quantita": 17373,
+    "valoreVendita": 43505.83,
+    "invenduto": 5,
+    "data": "2021-12-31T22:59:59.999Z",
+    "id": 90
+  },
+  {
+    "prodotto": {
+      "id": 5,
+      "nome": "Rosmarino alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "alta",
+      "valoreunitario": 11.11
+    },
+    "quantita": 13080,
+    "valoreVendita": 123676.52,
+    "invenduto": 378,
+    "data": "2021-12-31T22:59:59.999Z",
+    "id": 91
+  },
+  {
+    "prodotto": {
+      "id": 8,
+      "nome": "Patata alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "alta",
+      "valoreunitario": 1.01
+    },
+    "quantita": 5091,
+    "valoreVendita": 4494.5,
+    "invenduto": 70,
+    "data": "2021-12-31T22:59:59.999Z",
+    "id": 92
+  },
+  {
+    "prodotto": {
+      "id": 2,
+      "nome": "Lattuga alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "alta",
+      "valoreunitario": 2.51
+    },
+    "quantita": 17142,
+    "valoreVendita": 39261.42,
+    "invenduto": 365,
+    "data": "2022-02-28T22:59:59.999Z",
+    "id": 93
+  },
+  {
+    "prodotto": {
+      "id": 5,
+      "nome": "Rosmarino alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "alta",
+      "valoreunitario": 11.11
+    },
+    "quantita": 12781,
+    "valoreVendita": 119565.82,
+    "invenduto": 618,
+    "data": "2022-02-28T22:59:59.999Z",
+    "id": 94
+  },
+  {
+    "prodotto": {
+      "id": 8,
+      "nome": "Patata alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "alta",
+      "valoreunitario": 1.01
+    },
+    "quantita": 5223,
+    "valoreVendita": 5047.98,
+    "invenduto": 40,
+    "data": "2022-02-28T22:59:59.999Z",
+    "id": 95
+  },
+  {
+    "prodotto": {
+      "id": 0,
+      "nome": "Lattuga bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "bassa",
+      "valoreunitario": 1.3
+    },
+    "quantita": 17502,
+    "valoreVendita": 19479.2,
+    "invenduto": 442,
+    "data": "2022-03-31T21:59:59.999Z",
+    "id": 96
+  },
+  {
+    "prodotto": {
+      "id": 3,
+      "nome": "Rosmarino bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.82
+    },
+    "quantita": 13067,
+    "valoreVendita": 82426.52,
+    "invenduto": 226,
+    "data": "2022-03-31T21:59:59.999Z",
+    "id": 97
+  },
+  {
+    "prodotto": {
+      "id": 6,
+      "nome": "Patata bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 0.73
+    },
+    "quantita": 5146,
+    "valoreVendita": 3347.78,
+    "invenduto": 93,
+    "data": "2022-03-31T21:59:59.999Z",
+    "id": 98
+  },
+  {
+    "prodotto": {
+      "id": 0,
+      "nome": "Lattuga bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "bassa",
+      "valoreunitario": 1.3
+    },
+    "quantita": 17738,
+    "valoreVendita": 22590.1,
+    "invenduto": 87,
+    "data": "2022-04-30T21:59:59.999Z",
+    "id": 99
+  },
+  {
+    "prodotto": {
+      "id": 3,
+      "nome": "Rosmarino bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.82
+    },
+    "quantita": 12627,
+    "valoreVendita": 73171.78,
+    "invenduto": 161,
+    "data": "2022-04-30T21:59:59.999Z",
+    "id": 100
+  },
+  {
+    "prodotto": {
+      "id": 6,
+      "nome": "Patata bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 0.73
+    },
+    "quantita": 5196,
+    "valoreVendita": 3520.79,
+    "invenduto": 54,
+    "data": "2022-04-30T21:59:59.999Z",
+    "id": 101
+  },
+  {
+    "prodotto": {
+      "id": 2,
+      "nome": "Lattuga alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "alta",
+      "valoreunitario": 2.51
+    },
+    "quantita": 17287,
+    "valoreVendita": 40491.32,
+    "invenduto": 55,
+    "data": "2022-05-31T21:59:59.999Z",
+    "id": 102
+  },
+  {
+    "prodotto": {
+      "id": 5,
+      "nome": "Rosmarino alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "alta",
+      "valoreunitario": 11.11
+    },
+    "quantita": 12854,
+    "valoreVendita": 142252.44,
+    "invenduto": 4,
+    "data": "2022-05-31T21:59:59.999Z",
+    "id": 103
+  },
+  {
+    "prodotto": {
+      "id": 8,
+      "nome": "Patata alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "alta",
+      "valoreunitario": 1.01
+    },
+    "quantita": 5188,
+    "valoreVendita": 4736.9,
+    "invenduto": 19,
+    "data": "2022-05-31T21:59:59.999Z",
+    "id": 104
+  },
+  {
+    "prodotto": {
+      "id": 0,
+      "nome": "Lattuga bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "bassa",
+      "valoreunitario": 1.3
+    },
+    "quantita": 16958,
+    "valoreVendita": 21520.2,
+    "invenduto": 90,
+    "data": "2022-06-30T21:59:59.999Z",
+    "id": 105
+  },
+  {
+    "prodotto": {
+      "id": 3,
+      "nome": "Rosmarino bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.82
+    },
+    "quantita": 13363,
+    "valoreVendita": 90542.32,
+    "invenduto": 15,
+    "data": "2022-06-30T21:59:59.999Z",
+    "id": 106
+  },
+  {
+    "prodotto": {
+      "id": 6,
+      "nome": "Patata bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 0.73
+    },
+    "quantita": 5229,
+    "valoreVendita": 3376.98,
+    "invenduto": 22,
+    "data": "2022-06-30T21:59:59.999Z",
+    "id": 107
+  },
+  {
+    "prodotto": {
+      "id": 0,
+      "nome": "Lattuga bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "bassa",
+      "valoreunitario": 1.3
+    },
+    "quantita": 16539,
+    "valoreVendita": 18180.5,
+    "invenduto": 687,
+    "data": "2022-07-31T21:59:59.999Z",
+    "id": 108
+  },
+  {
+    "prodotto": {
+      "id": 3,
+      "nome": "Rosmarino bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.82
+    },
+    "quantita": 12597,
+    "valoreVendita": 80905.66,
+    "invenduto": 196,
+    "data": "2022-07-31T21:59:59.999Z",
+    "id": 109
+  },
+  {
+    "prodotto": {
+      "id": 6,
+      "nome": "Patata bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 0.73
+    },
+    "quantita": 5327,
+    "valoreVendita": 3860.97,
+    "invenduto": 0,
+    "data": "2022-07-31T21:59:59.999Z",
+    "id": 110
+  },
+  {
+    "prodotto": {
+      "id": 0,
+      "nome": "Lattuga bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "bassa",
+      "valoreunitario": 1.3
+    },
+    "quantita": 17603,
+    "valoreVendita": 21877.7,
+    "invenduto": 139,
+    "data": "2022-08-31T21:59:59.999Z",
+    "id": 111
+  },
+  {
+    "prodotto": {
+      "id": 3,
+      "nome": "Rosmarino bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.82
+    },
+    "quantita": 12860,
+    "valoreVendita": 83654.12,
+    "invenduto": 61,
+    "data": "2022-08-31T21:59:59.999Z",
+    "id": 112
+  },
+  {
+    "prodotto": {
+      "id": 6,
+      "nome": "Patata bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 0.73
+    },
+    "quantita": 5295,
+    "valoreVendita": 3340.48,
+    "invenduto": 4,
+    "data": "2022-08-31T21:59:59.999Z",
+    "id": 113
+  },
+  {
+    "prodotto": {
+      "id": 12,
+      "nome": "Uva bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.66
+    },
+    "quantita": 13062,
+    "valoreVendita": 75637.62,
+    "invenduto": 354,
+    "data": "2022-09-30T21:59:59.999Z",
+    "id": 114
+  },
+  {
+    "prodotto": {
+      "id": 0,
+      "nome": "Lattuga bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "bassa",
+      "valoreunitario": 1.3
+    },
+    "quantita": 17322,
+    "valoreVendita": 22369.1,
+    "invenduto": 2,
+    "data": "2022-09-30T21:59:59.999Z",
+    "id": 115
+  },
+  {
+    "prodotto": {
+      "id": 3,
+      "nome": "Rosmarino bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.82
+    },
+    "quantita": 12629,
+    "valoreVendita": 74460.76,
+    "invenduto": 228,
+    "data": "2022-09-30T21:59:59.999Z",
+    "id": 116
+  },
+  {
+    "prodotto": {
+      "id": 6,
+      "nome": "Patata bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 0.73
+    },
+    "quantita": 5188,
+    "valoreVendita": 3517.87,
+    "invenduto": 105,
+    "data": "2022-09-30T21:59:59.999Z",
+    "id": 117
+  },
+  {
+    "prodotto": {
+      "id": 9,
+      "nome": "Olive bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 5.04
+    },
+    "quantita": 2646,
+    "valoreVendita": 12650.4,
+    "invenduto": 14,
+    "data": "2022-10-31T22:59:59.999Z",
+    "id": 118
+  },
+  {
+    "prodotto": {
+      "id": 12,
+      "nome": "Uva bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.66
+    },
+    "quantita": 13316,
+    "valoreVendita": 88278.3,
+    "invenduto": 6,
+    "data": "2022-10-31T22:59:59.999Z",
+    "id": 119
+  },
+  {
+    "prodotto": {
+      "id": 0,
+      "nome": "Lattuga bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "bassa",
+      "valoreunitario": 1.3
+    },
+    "quantita": 17251,
+    "valoreVendita": 21434.4,
+    "invenduto": 187,
+    "data": "2022-10-31T22:59:59.999Z",
+    "id": 120
+  },
+  {
+    "prodotto": {
+      "id": 3,
+      "nome": "Rosmarino bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.82
+    },
+    "quantita": 13022,
+    "valoreVendita": 86907.26,
+    "invenduto": 91,
+    "data": "2022-10-31T22:59:59.999Z",
+    "id": 121
+  },
+  {
+    "prodotto": {
+      "id": 6,
+      "nome": "Patata bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 0.73
+    },
+    "quantita": 5116,
+    "valoreVendita": 3621.53,
+    "invenduto": 16,
+    "data": "2022-10-31T22:59:59.999Z",
+    "id": 122
+  },
+  {
+    "prodotto": {
+      "id": 9,
+      "nome": "Olive bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 5.04
+    },
+    "quantita": 2599,
+    "valoreVendita": 10624.32,
+    "invenduto": 22,
+    "data": "2022-11-30T22:59:59.999Z",
+    "id": 123
+  },
+  {
+    "prodotto": {
+      "id": 2,
+      "nome": "Lattuga alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "alta",
+      "valoreunitario": 2.51
+    },
+    "quantita": 16983,
+    "valoreVendita": 34281.58,
+    "invenduto": 56,
+    "data": "2022-11-30T22:59:59.999Z",
+    "id": 124
+  },
+  {
+    "prodotto": {
+      "id": 5,
+      "nome": "Rosmarino alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "alta",
+      "valoreunitario": 11.11
+    },
+    "quantita": 12589,
+    "valoreVendita": 125776.31,
+    "invenduto": 196,
+    "data": "2022-11-30T22:59:59.999Z",
+    "id": 125
+  },
+  {
+    "prodotto": {
+      "id": 8,
+      "nome": "Patata alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "alta",
+      "valoreunitario": 1.01
+    },
+    "quantita": 5186,
+    "valoreVendita": 5234.83,
+    "invenduto": 0,
+    "data": "2022-11-30T22:59:59.999Z",
+    "id": 126
+  },
+  {
+    "prodotto": {
+      "id": 2,
+      "nome": "Lattuga alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "alta",
+      "valoreunitario": 2.51
+    },
+    "quantita": 17364,
+    "valoreVendita": 38013.95,
+    "invenduto": 521,
+    "data": "2022-12-31T22:59:59.999Z",
+    "id": 127
+  },
+  {
+    "prodotto": {
+      "id": 5,
+      "nome": "Rosmarino alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "alta",
+      "valoreunitario": 11.11
+    },
+    "quantita": 12867,
+    "valoreVendita": 123665.41,
+    "invenduto": 285,
+    "data": "2022-12-31T22:59:59.999Z",
+    "id": 128
+  },
+  {
+    "prodotto": {
+      "id": 8,
+      "nome": "Patata alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "alta",
+      "valoreunitario": 1.01
+    },
+    "quantita": 5238,
+    "valoreVendita": 5082.32,
+    "invenduto": 50,
+    "data": "2022-12-31T22:59:59.999Z",
+    "id": 129
+  },
+  {
+    "prodotto": {
+      "id": 0,
+      "nome": "Lattuga bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "bassa",
+      "valoreunitario": 1.3
+    },
+    "quantita": 16972,
+    "valoreVendita": 19936.8,
+    "invenduto": 400,
+    "data": "2023-02-28T22:59:59.999Z",
+    "id": 130
+  },
+  {
+    "prodotto": {
+      "id": 3,
+      "nome": "Rosmarino bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.82
+    },
+    "quantita": 12871,
+    "valoreVendita": 78675.52,
+    "invenduto": 3,
+    "data": "2023-02-28T22:59:59.999Z",
+    "id": 131
+  },
+  {
+    "prodotto": {
+      "id": 6,
+      "nome": "Patata bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 0.73
+    },
+    "quantita": 5323,
+    "valoreVendita": 3665.33,
+    "invenduto": 43,
+    "data": "2023-02-28T22:59:59.999Z",
+    "id": 132
+  },
+  {
+    "prodotto": {
+      "id": 0,
+      "nome": "Lattuga bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "bassa",
+      "valoreunitario": 1.3
+    },
+    "quantita": 17299,
+    "valoreVendita": 21190,
+    "invenduto": 212,
+    "data": "2023-03-31T21:59:59.999Z",
+    "id": 133
+  },
+  {
+    "prodotto": {
+      "id": 3,
+      "nome": "Rosmarino bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.82
+    },
+    "quantita": 13032,
+    "valoreVendita": 77352.44,
+    "invenduto": 415,
+    "data": "2023-03-31T21:59:59.999Z",
+    "id": 134
+  },
+  {
+    "prodotto": {
+      "id": 6,
+      "nome": "Patata bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 0.73
+    },
+    "quantita": 5105,
+    "valoreVendita": 3222.95,
+    "invenduto": 2,
+    "data": "2023-03-31T21:59:59.999Z",
+    "id": 135
+  },
+  {
+    "prodotto": {
+      "id": 0,
+      "nome": "Lattuga bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "bassa",
+      "valoreunitario": 1.3
+    },
+    "quantita": 17011,
+    "valoreVendita": 20385.3,
+    "invenduto": 364,
+    "data": "2023-04-30T21:59:59.999Z",
+    "id": 136
+  },
+  {
+    "prodotto": {
+      "id": 3,
+      "nome": "Rosmarino bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.82
+    },
+    "quantita": 13141,
+    "valoreVendita": 79480.28,
+    "invenduto": 188,
+    "data": "2023-04-30T21:59:59.999Z",
+    "id": 137
+  },
+  {
+    "prodotto": {
+      "id": 6,
+      "nome": "Patata bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 0.73
+    },
+    "quantita": 4972,
+    "valoreVendita": 3032.42,
+    "invenduto": 203,
+    "data": "2023-04-30T21:59:59.999Z",
+    "id": 138
+  },
+  {
+    "prodotto": {
+      "id": 0,
+      "nome": "Lattuga bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "bassa",
+      "valoreunitario": 1.3
+    },
+    "quantita": 17060,
+    "valoreVendita": 21619,
+    "invenduto": 114,
+    "data": "2023-05-31T21:59:59.999Z",
+    "id": 139
+  },
+  {
+    "prodotto": {
+      "id": 3,
+      "nome": "Rosmarino bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.82
+    },
+    "quantita": 12956,
+    "valoreVendita": 81778.62,
+    "invenduto": 230,
+    "data": "2023-05-31T21:59:59.999Z",
+    "id": 140
+  },
+  {
+    "prodotto": {
+      "id": 6,
+      "nome": "Patata bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 0.73
+    },
+    "quantita": 5156,
+    "valoreVendita": 3481.37,
+    "invenduto": 12,
+    "data": "2023-05-31T21:59:59.999Z",
+    "id": 141
+  },
+  {
+    "prodotto": {
+      "id": 2,
+      "nome": "Lattuga alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "alta",
+      "valoreunitario": 2.51
+    },
+    "quantita": 17882,
+    "valoreVendita": 43643.88,
+    "invenduto": 117,
+    "data": "2023-06-30T21:59:59.999Z",
+    "id": 142
+  },
+  {
+    "prodotto": {
+      "id": 5,
+      "nome": "Rosmarino alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "alta",
+      "valoreunitario": 11.11
+    },
+    "quantita": 13182,
+    "valoreVendita": 139597.15,
+    "invenduto": 125,
+    "data": "2023-06-30T21:59:59.999Z",
+    "id": 143
+  },
+  {
+    "prodotto": {
+      "id": 8,
+      "nome": "Patata alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "alta",
+      "valoreunitario": 1.01
+    },
+    "quantita": 5242,
+    "valoreVendita": 5103.53,
+    "invenduto": 8,
+    "data": "2023-06-30T21:59:59.999Z",
+    "id": 144
+  },
+  {
+    "prodotto": {
+      "id": 0,
+      "nome": "Lattuga bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "bassa",
+      "valoreunitario": 1.3
+    },
+    "quantita": 17598,
+    "valoreVendita": 19613.1,
+    "invenduto": 177,
+    "data": "2023-07-31T21:59:59.999Z",
+    "id": 145
+  },
+  {
+    "prodotto": {
+      "id": 3,
+      "nome": "Rosmarino bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.82
+    },
+    "quantita": 12965,
+    "valoreVendita": 77768.46,
+    "invenduto": 31,
+    "data": "2023-07-31T21:59:59.999Z",
+    "id": 146
+  },
+  {
+    "prodotto": {
+      "id": 6,
+      "nome": "Patata bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 0.73
+    },
+    "quantita": 5035,
+    "valoreVendita": 3283.54,
+    "invenduto": 157,
+    "data": "2023-07-31T21:59:59.999Z",
+    "id": 147
+  },
+  {
+    "prodotto": {
+      "id": 0,
+      "nome": "Lattuga bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "bassa",
+      "valoreunitario": 1.3
+    },
+    "quantita": 17181,
+    "valoreVendita": 20386.6,
+    "invenduto": 210,
+    "data": "2023-08-31T21:59:59.999Z",
+    "id": 148
+  },
+  {
+    "prodotto": {
+      "id": 3,
+      "nome": "Rosmarino bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.82
+    },
+    "quantita": 13339,
+    "valoreVendita": 79637.14,
+    "invenduto": 96,
+    "data": "2023-08-31T21:59:59.999Z",
+    "id": 149
+  },
+  {
+    "prodotto": {
+      "id": 6,
+      "nome": "Patata bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 0.73
+    },
+    "quantita": 5013,
+    "valoreVendita": 3290.84,
+    "invenduto": 159,
+    "data": "2023-08-31T21:59:59.999Z",
+    "id": 150
+  },
+  {
+    "prodotto": {
+      "id": 12,
+      "nome": "Uva bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.66
+    },
+    "quantita": 13066,
+    "valoreVendita": 71315.28,
+    "invenduto": 0,
+    "data": "2023-09-30T21:59:59.999Z",
+    "id": 151
+  },
+  {
+    "prodotto": {
+      "id": 0,
+      "nome": "Lattuga bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "bassa",
+      "valoreunitario": 1.3
+    },
+    "quantita": 17762,
+    "valoreVendita": 21746.4,
+    "invenduto": 234,
+    "data": "2023-09-30T21:59:59.999Z",
+    "id": 152
+  },
+  {
+    "prodotto": {
+      "id": 3,
+      "nome": "Rosmarino bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.82
+    },
+    "quantita": 13093,
+    "valoreVendita": 86191.16,
+    "invenduto": 129,
+    "data": "2023-09-30T21:59:59.999Z",
+    "id": 153
+  },
+  {
+    "prodotto": {
+      "id": 6,
+      "nome": "Patata bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 0.73
+    },
+    "quantita": 5377,
+    "valoreVendita": 3403.26,
+    "invenduto": 9,
+    "data": "2023-09-30T21:59:59.999Z",
+    "id": 154
+  },
+  {
+    "prodotto": {
+      "id": 9,
+      "nome": "Olive bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 5.04
+    },
+    "quantita": 2538,
+    "valoreVendita": 10699.92,
+    "invenduto": 94,
+    "data": "2023-10-31T22:59:59.999Z",
+    "id": 155
+  },
+  {
+    "prodotto": {
+      "id": 12,
+      "nome": "Uva bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.66
+    },
+    "quantita": 13261,
+    "valoreVendita": 83622.96,
+    "invenduto": 93,
+    "data": "2023-10-31T22:59:59.999Z",
+    "id": 156
+  },
+  {
+    "prodotto": {
+      "id": 0,
+      "nome": "Lattuga bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "bassa",
+      "valoreunitario": 1.3
+    },
+    "quantita": 17338,
+    "valoreVendita": 19645.6,
+    "invenduto": 139,
+    "data": "2023-10-31T22:59:59.999Z",
+    "id": 157
+  },
+  {
+    "prodotto": {
+      "id": 3,
+      "nome": "Rosmarino bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.82
+    },
+    "quantita": 12920,
+    "valoreVendita": 78020.8,
+    "invenduto": 146,
+    "data": "2023-10-31T22:59:59.999Z",
+    "id": 158
+  },
+  {
+    "prodotto": {
+      "id": 6,
+      "nome": "Patata bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 0.73
+    },
+    "quantita": 5135,
+    "valoreVendita": 3564.59,
+    "invenduto": 1,
+    "data": "2023-10-31T22:59:59.999Z",
+    "id": 159
+  },
+  {
+    "prodotto": {
+      "id": 9,
+      "nome": "Olive bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 5.04
+    },
+    "quantita": 2649,
+    "valoreVendita": 11062.8,
+    "invenduto": 24,
+    "data": "2023-11-30T22:59:59.999Z",
+    "id": 160
+  },
+  {
+    "prodotto": {
+      "id": 0,
+      "nome": "Lattuga bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "bassa",
+      "valoreunitario": 1.3
+    },
+    "quantita": 17429,
+    "valoreVendita": 19416.8,
+    "invenduto": 472,
+    "data": "2023-11-30T22:59:59.999Z",
+    "id": 161
+  },
+  {
+    "prodotto": {
+      "id": 3,
+      "nome": "Rosmarino bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.82
+    },
+    "quantita": 12860,
+    "valoreVendita": 75545.14,
+    "invenduto": 125,
+    "data": "2023-11-30T22:59:59.999Z",
+    "id": 162
+  },
+  {
+    "prodotto": {
+      "id": 6,
+      "nome": "Patata bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 0.73
+    },
+    "quantita": 5069,
+    "valoreVendita": 3345.59,
+    "invenduto": 157,
+    "data": "2023-11-30T22:59:59.999Z",
+    "id": 163
+  },
+  {
+    "prodotto": {
+      "id": 0,
+      "nome": "Lattuga bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "bassa",
+      "valoreunitario": 1.3
+    },
+    "quantita": 17153,
+    "valoreVendita": 19106.1,
+    "invenduto": 114,
+    "data": "2023-12-31T22:59:59.999Z",
+    "id": 164
+  },
+  {
+    "prodotto": {
+      "id": 3,
+      "nome": "Rosmarino bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.82
+    },
+    "quantita": 13261,
+    "valoreVendita": 83824.62,
+    "invenduto": 64,
+    "data": "2023-12-31T22:59:59.999Z",
+    "id": 165
+  },
+  {
+    "prodotto": {
+      "id": 6,
+      "nome": "Patata bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 0.73
+    },
+    "quantita": 5311,
+    "valoreVendita": 3290.84,
+    "invenduto": 84,
+    "data": "2023-12-31T22:59:59.999Z",
+    "id": 166
+  },
+  {
+    "prodotto": {
+      "id": 0,
+      "nome": "Lattuga bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "bassa",
+      "valoreunitario": 1.3
+    },
+    "quantita": 17735,
+    "valoreVendita": 20333.3,
+    "invenduto": 25,
+    "data": "2024-02-29T22:59:59.999Z",
+    "id": 167
+  },
+  {
+    "prodotto": {
+      "id": 3,
+      "nome": "Rosmarino bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.82
+    },
+    "quantita": 12587,
+    "valoreVendita": 75524.68,
+    "invenduto": 263,
+    "data": "2024-02-29T22:59:59.999Z",
+    "id": 168
+  },
+  {
+    "prodotto": {
+      "id": 6,
+      "nome": "Patata bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 0.73
+    },
+    "quantita": 5202,
+    "valoreVendita": 3128.78,
+    "invenduto": 21,
+    "data": "2024-02-29T22:59:59.999Z",
+    "id": 169
+  },
+  {
+    "prodotto": {
+      "id": 2,
+      "nome": "Lattuga alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "alta",
+      "valoreunitario": 2.51
+    },
+    "quantita": 17598,
+    "valoreVendita": 36382.45,
+    "invenduto": 207,
+    "data": "2024-03-31T21:59:59.999Z",
+    "id": 170
+  },
+  {
+    "prodotto": {
+      "id": 5,
+      "nome": "Rosmarino alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "alta",
+      "valoreunitario": 11.11
+    },
+    "quantita": 13022,
+    "valoreVendita": 131575.73,
+    "invenduto": 221,
+    "data": "2024-03-31T21:59:59.999Z",
+    "id": 171
+  },
+  {
+    "prodotto": {
+      "id": 8,
+      "nome": "Patata alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "alta",
+      "valoreunitario": 1.01
+    },
+    "quantita": 5131,
+    "valoreVendita": 4660.14,
+    "invenduto": 43,
+    "data": "2024-03-31T21:59:59.999Z",
+    "id": 172
+  },
+  {
+    "prodotto": {
+      "id": 0,
+      "nome": "Lattuga bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "bassa",
+      "valoreunitario": 1.3
+    },
+    "quantita": 17583,
+    "valoreVendita": 20464.6,
+    "invenduto": 321,
+    "data": "2024-04-30T21:59:59.999Z",
+    "id": 173
+  },
+  {
+    "prodotto": {
+      "id": 3,
+      "nome": "Rosmarino bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.82
+    },
+    "quantita": 13058,
+    "valoreVendita": 83374.5,
+    "invenduto": 55,
+    "data": "2024-04-30T21:59:59.999Z",
+    "id": 174
+  },
+  {
+    "prodotto": {
+      "id": 6,
+      "nome": "Patata bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 0.73
+    },
+    "quantita": 5245,
+    "valoreVendita": 3786.51,
+    "invenduto": 16,
+    "data": "2024-04-30T21:59:59.999Z",
+    "id": 175
+  },
+  {
+    "prodotto": {
+      "id": 0,
+      "nome": "Lattuga bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "bassa",
+      "valoreunitario": 1.3
+    },
+    "quantita": 17615,
+    "valoreVendita": 18947.5,
+    "invenduto": 31,
+    "data": "2024-05-31T21:59:59.999Z",
+    "id": 176
+  },
+  {
+    "prodotto": {
+      "id": 3,
+      "nome": "Rosmarino bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.82
+    },
+    "quantita": 13263,
+    "valoreVendita": 81287.58,
+    "invenduto": 164,
+    "data": "2024-05-31T21:59:59.999Z",
+    "id": 177
+  },
+  {
+    "prodotto": {
+      "id": 6,
+      "nome": "Patata bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 0.73
+    },
+    "quantita": 5275,
+    "valoreVendita": 3429.54,
+    "invenduto": 25,
+    "data": "2024-05-31T21:59:59.999Z",
+    "id": 178
+  },
+  {
+    "prodotto": {
+      "id": 0,
+      "nome": "Lattuga bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "bassa",
+      "valoreunitario": 1.3
+    },
+    "quantita": 17284,
+    "valoreVendita": 22341.8,
+    "invenduto": 21,
+    "data": "2024-06-30T21:59:59.999Z",
+    "id": 179
+  },
+  {
+    "prodotto": {
+      "id": 3,
+      "nome": "Rosmarino bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 6.82
+    },
+    "quantita": 13110,
+    "valoreVendita": 82822.08,
+    "invenduto": 92,
+    "data": "2024-06-30T21:59:59.999Z",
+    "id": 180
+  },
+  {
+    "prodotto": {
+      "id": 6,
+      "nome": "Patata bassa qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "bassa",
+      "valoreunitario": 0.73
+    },
+    "quantita": 5320,
+    "valoreVendita": 3323.69,
+    "invenduto": 73,
+    "data": "2024-06-30T21:59:59.999Z",
+    "id": 181
+  },
+  {
+    "prodotto": {
+      "id": 2,
+      "nome": "Lattuga alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 0.7,
+      "qualita": "alta",
+      "valoreunitario": 2.51
+    },
+    "quantita": 17717,
+    "valoreVendita": 41869.31,
+    "invenduto": 158,
+    "data": "2024-07-31T21:59:59.999Z",
+    "id": 182
+  },
+  {
+    "prodotto": {
+      "id": 5,
+      "nome": "Rosmarino alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "alta",
+      "valoreunitario": 11.11
+    },
+    "quantita": 13373,
+    "valoreVendita": 135230.92,
+    "invenduto": 15,
+    "data": "2024-07-31T21:59:59.999Z",
+    "id": 183
+  },
+  {
+    "prodotto": {
+      "id": 8,
+      "nome": "Patata alta qualita",
+      "unitamisura": "PZ",
+      "pesokg": 1,
+      "qualita": "alta",
+      "valoreunitario": 1.01
+    },
+    "quantita": 5147,
+    "valoreVendita": 4935.87,
+    "invenduto": 3,
+    "data": "2024-07-31T21:59:59.999Z",
+    "id": 184
+  }
+]

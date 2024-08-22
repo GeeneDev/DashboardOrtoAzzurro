@@ -1,0 +1,14 @@
+[
+  {
+    "id": 0,
+    "nome": "Fertilizzante Yara Vera (Urea)",
+    "azoto": 46,
+    "costo": 14.17
+  },
+  {
+    "id": 1,
+    "nome": "Fertilizzante Nitrato di calcio idrosolubile 15,5 N + 26,5 CaO 25KG",
+    "azoto": 14.4,
+    "costo": 18.59
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "id": 0,
+    "nome": "GeoTech Pro LFM 85 - Trinciaerba per trattore",
+    "costo": 976.65
+  },
+  {
+    "id": 1,
+    "nome": "Trattrice NEW HOLLAND T6",
+    "cv": 121,
+    "kw": 81,
+    "costo": 32980.1
+  },
+  {
+    "id": 2,
+    "nome": "Trattrice ARION 410",
+    "cv": 125,
+    "kw": 92,
+    "costo": 58193.35
+  },
+  {
+    "id": 3,
+    "nome": "Claas Dominator 130 Dominator 130 4X2 4.2M HEADER - PERKINS TIER 3",
+    "cv": 52,
+    "kw": 112,
+    "costo": 101084.67
+  },
+  {
+    "id": 4,
+    "nome": "Erpice rotante CELLI 225",
+    "costo": 6744.13
+  },
+  {
+    "id": 5,
+    "nome": "Erpice a dischi ANGELONI FMP 24-610",
+    "costo": 8038.75
+  },
+  {
+    "id": 6,
+    "nome": "Trattrice MF 4709 PT",
+    "cv": 95,
+    "kw": 70,
+    "costo": 49169.91
+  },
+  {
+    "id": 7,
+    "nome": "Spandiconcime AMAZONE ZAM 1001",
+    "costo": 7793.81
+  },
+  {
+    "id": 8,
+    "nome": "Seminatrice GASPARDO SP 530",
+    "costo": 5003.85
+  },
+  {
+    "id": 9,
+    "nome": "Estirpatore DELEKS DE-165/7",
+    "costo": 791.67
+  },
+  {
+    "id": 10,
+    "nome": "Zappatrice BERCI GIOVE 165",
+    "costo": 1329.31
+  },
+  {
+    "id": 11,
+    "nome": "Spandiconcime AMAZONE ZAM 1001",
+    "costo": 7487.99
+  },
+  {
+    "id": 12,
+    "nome": "GeoTech Pro LFM 85 - Trinciaerba per trattore",
+    "costo": 2619.2
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "nome": "Sede Amministrativa",
+    "indirizzo": "Via Roma, 87",
+    "citta": "Perugia"
+  },
+  {
+    "id": 1,
+    "nome": "Magazzino Principale",
+    "indirizzo": "Via Mazzini 99 ",
+    "citta": "Perugia",
+    "magazzini": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Terreno Azzurro",
+    "indirizzo": "Via Cavour 12",
+    "citta": "Perugia",
+    "magazzini": [
+      4
+    ],
+    "terreno": 0
+  },
+  {
+    "id": 3,
+    "nome": "Terreno Verde",
+    "indirizzo": "Via Matteotti 3",
+    "citta": "Perugia",
+    "magazzini": [
+      5
+    ],
+    "terreno": 1
+  },
+  {
+    "id": 4,
+    "nome": "Terreno Giallo",
+    "indirizzo": "Via Dante Alighieri 47",
+    "citta": "Perugia",
+    "magazzini": [
+      6
+    ],
+    "terreno": 2
+  }
+]

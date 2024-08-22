@@ -1,0 +1,72 @@
+/* Componenti css personalizzate utilizzate da tutta la dashboard */
+/* Permette di applicare fit-content in maniera agevole dato che fit-content non esiste come classe bootstrap */
+.fit-content {
+    width: fit-content;
+}
+
+/* Permette di mostrare il mouse come la manina per cliccare */
+.clickable {
+    cursor: pointer;
+    user-select: none;
+}
+
+/* Definizione della parte esterna delle finestre modali */
+.modal {
+    width: auto;
+    height: auto;
+    top: 10%;
+    left: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1050; 
+    cursor: move;
+    overflow: hidden;
+}
+
+/* Definizione della parte interna delle finestre modali */
+.modal-dialog {
+    background: white;
+    border-radius: 0.3rem;
+    max-height: 100%;
+    max-width: 98%;
+    border-color: black;
+    border-style: outset;
+}
+
+/* Definizione del contenuto delle finestre modali */
+.modal-content {
+  border: none;
+  border-radius: 0.3rem;
+  box-shadow: 0.55rem 0.55rem 0.25rem rgba(0, 0, 0, 0.075);
+  height: 100%;
+}
+
+/* Definizione dell'header delle finestre modali */
+.modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+/* Metto un padding al body della finestra modale */
+.modal-body {
+  padding: 1rem;
+}
+
+/* Classe personalizzata per il colore di background del dropdown menu navbar quando si effettua hovering con il mouse */
+.dropdown-item:hover{
+  background-color: #74baff;
+}
+
+/* Classe che inverte il colore di un immagine, usata per trasformare le immagini bianche in nere */
+.invert {
+  -webkit-filter: invert(1);
+  filter: invert(1);
+}
+
+/* Classe per nascondere i pallini dal menu di lista ordinata, usato in correzioni terreno per sostituire il pallino con le immagini del tipo prodotto usato per la correzione */
+.no-style-li{
+  list-style-type:none;
+}

@@ -1,0 +1,133 @@
+[
+  {
+    "id": 0,
+    "nome": "Terreno Azzurro",
+    "ettari": 3,
+    "azoto": [
+      {
+        "livello": 64,
+        "decadimento": 0.02
+      }
+    ],
+    "fosforo": [
+      {
+        "livello": 35,
+        "decadimento": 0.026
+      }
+    ],
+    "potassio": [
+      {
+        "livello": 61,
+        "decadimento": 0.011
+      }
+    ],
+    "nitrogeno": [
+      {
+        "livello": 60,
+        "decadimento": 0.021
+      }
+    ],
+    "acqua": [
+      {
+        "livello": 69,
+        "decadimento": 0.027
+      }
+    ],
+    "colture": [
+      {
+        "id": 15,
+        "quantita": 3000
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "nome": "Terreno Verde",
+    "ettari": 5,
+    "azoto": [
+      {
+        "livello": 74,
+        "decadimento": 0.028
+      }
+    ],
+    "fosforo": [
+      {
+        "livello": 63,
+        "decadimento": 0.03
+      }
+    ],
+    "potassio": [
+      {
+        "livello": 88,
+        "decadimento": 0.015
+      }
+    ],
+    "nitrogeno": [
+      {
+        "livello": 42,
+        "decadimento": 0.012
+      }
+    ],
+    "acqua": [
+      {
+        "livello": 57,
+        "decadimento": 0.027
+      }
+    ],
+    "colture": [
+      {
+        "id": 16,
+        "quantita": 15000
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Terreno Giallo",
+    "ettari": 1.25,
+    "azoto": [
+      {
+        "livello": 39,
+        "decadimento": 0.012
+      }
+    ],
+    "fosforo": [
+      {
+        "livello": 80,
+        "decadimento": 0.019
+      }
+    ],
+    "potassio": [
+      {
+        "livello": 51,
+        "decadimento": 0.025
+      }
+    ],
+    "nitrogeno": [
+      {
+        "livello": 47,
+        "decadimento": 0.011
+      }
+    ],
+    "acqua": [
+      {
+        "livello": 50,
+        "decadimento": 0.015
+      }
+    ],
+    "colture": [
+      {
+        "id": 17,
+        "quantita": 20000
+      },
+      {
+        "id": 18,
+        "quantita": 15000
+      },
+      {
+        "id": 19,
+        "quantita": 6000
+      }
+    ]
+  }
+]

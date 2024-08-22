@@ -1,0 +1,36 @@
+[
+  {
+    "id": 0,
+    "nome": "PLANTAFOL 20 20 20 Concime NPK macro e microelementi chelati con EDTA 5KG",
+    "azoto": 20,
+    "fosforo": 20,
+    "potassio": 20,
+    "costo": 7.89
+  },
+  {
+    "id": 1,
+    "nome": "Fylloton Biolchim Concime Biologico Alghe e Amminoacidi 5L",
+    "azoto": 6,
+    "costo": 52.13
+  },
+  {
+    "id": 2,
+    "nome": "Concime Biologico Leonardite Blackjak Bio Sipcam",
+    "azoto": 0.5,
+    "costo": 16.21
+  },
+  {
+    "id": 3,
+    "nome": "Humozon 10L Sumitomo Concime Biostimolante Biologico",
+    "azoto": 8.7,
+    "costo": 34.94
+  },
+  {
+    "id": 4,
+    "nome": "Greenleaf 20-20-20 Biolchim Concime Fogliare NPK + microelementi 2.5Kg",
+    "azoto": 20,
+    "fosforo": 20,
+    "potassio": 20,
+    "costo": 20.28
+  }
+]
